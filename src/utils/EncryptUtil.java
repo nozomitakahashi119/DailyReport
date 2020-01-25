@@ -21,3 +21,9 @@ public class EncryptUtil {
         return ret;
     }
 }
+
+// 文字列を SHA256 で暗号化するクラス
+//   このクラスの getPasswordEncrypt メソッドは、
+//   引数で受け取った文字列にソルト文字列を連結させた
+//   ものを SHA256 で暗号化します。引数の文字列が何
+//   もなければ、空の文字列を返します。
