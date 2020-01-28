@@ -1,4 +1,4 @@
-package EncodingFilter;
+package filters;
 
 import java.io.IOException;
 
@@ -14,12 +14,12 @@ import javax.servlet.annotation.WebFilter;
  * Servlet Filter implementation class filters
  */
 @WebFilter("/*")
-public class filters implements Filter {
+public class EncodingFilter implements Filter {
 
     /**
      * Default constructor.
      */
-    public filters() {
+    public EncodingFilter() {
         // TODO Auto-generated constructor stub
     }
 
