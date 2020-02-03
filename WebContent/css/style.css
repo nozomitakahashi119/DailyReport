@@ -56,6 +56,11 @@ th {
     padding: 10px 2%;
 }
 
+td {
+    width: 66%;
+    padding: 10px 2%;
+}
+
 button {
     font-size: 14px;
     padding: 5px 10px;
@@ -107,10 +112,10 @@ select {
     height: 30px;
 }
 
-#hearder_menu {
+#header_menu {
     width: 57%;
     padding-top: 17px;
-    padding-left: 3px;
+    padding-left: 3%;
     display: inline-block;
 }
 
@@ -118,7 +123,7 @@ select {
     color: #cccccc;
     width: 36%;
     padding-right: 3%;
-    text-alian: right;
+    text-align: right;
     display: inline-block;
 }
 
@@ -135,7 +140,7 @@ table#report_list th {
     padding: 10px 2%;
 }
 
-table#report_lost .report_name {
+table#report_list .report_name {
     width: 20%;
     padding: 10px 2%;
 }
