@@ -2,7 +2,7 @@
 
 ## 📱　AppName "DailyReport"
  
-"DailyReport" is a daily report management system with Java / 「DailyReport」はJavaを用いた日報管理システムです
+"DailyReport" is a daily report management system with Java☕️ / 「DailyReport」はJava☕️を用いた日報管理システムです
  
 ## ❗️　eatures / 特徴
  
