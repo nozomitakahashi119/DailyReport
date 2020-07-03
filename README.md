@@ -4,9 +4,9 @@
  
 "DailyReport" is a daily report management system with Java☕️ / 「DailyReport」はJavaを用いた日報管理システムです
  
-## ❗️　eatures / 特徴
+## ❗️　Features / 特徴
  
-F
+
  
 ## 🔨　Requirement / 使用ツール
 
