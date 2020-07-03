@@ -1,8 +1,8 @@
 # README：）
 
-## 📱　AppName "Findfamfam"
+## 📱　AppName "DailyReport"
  
-"Findfamfam" is a livingmate matching app with Ruby / 「Findfamfam」はRubyを用いた同居人マッチングアプリです
+"DailyReport" is a daily report management system with Java / 「DailyReport」はJavaを用いた日報管理システムです
  
 ## ❗️　eatures / 特徴
  
