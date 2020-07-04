@@ -10,7 +10,7 @@
  
 ## 🔨　Requirement / 使用ツール
 
-Java version: 1.8.0_131  
+Java version: 1.8.0  
 Eclipse version: 4.6.3
  
 ## 📗　Usage / 使用方法
