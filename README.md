@@ -6,16 +6,17 @@
  
 ## ❗️　Features / 特徴
  
-
+"Daily Report" can record personal work content / 「DailyReport」は個人の業務内容を記録することができます
  
 ## 🔨　Requirement / 使用ツール
 
-Java version: 
+Java version: 1.8.0_131
+Eclipse version: 4.6.3
  
 ## 📗　Usage / 使用方法
 
 1. Register and log in / ユーザー登録をしてログインをしよう  
-2. 
+2. Record the work you have done / 行った業務を記録しよう
  
 ## ☔️　Note / 注意点
  
